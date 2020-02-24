@@ -1,12 +1,8 @@
 ---
-title:  "[OneDay]원데이 클래스 예약 사이트"
-excerpt: "웹 프로젝트 - Java, Servlet, Oracle"
-
-categories:
-  - Blog
-tags:
-  - Blog
-last_modified_at: 2020-01-24T08:06:00-05:00
+title:  "[OneDay]원데이 클래스"
+excerpt: "Java, Servlet, Oracle"
+header:
+  teaser: assets/image/oneday/main.PNG
 ---
 ![main](\assets\image\oneday\main.PNG)
 
@@ -51,4 +47,5 @@ last_modified_at: 2020-01-24T08:06:00-05:00
 
   ![admin](\assets\image\oneday\one_admin.PNG)
 
-> [Github](https://github.com/JooooHyeWon/Oneday)
+## 관련 주소
+* [Github](https://github.com/JooooHyeWon/Oneday)

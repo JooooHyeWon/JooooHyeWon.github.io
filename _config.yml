@@ -293,3 +293,17 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+
+# 컬렉션 설정 도전
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/

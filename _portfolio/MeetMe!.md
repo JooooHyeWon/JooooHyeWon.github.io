@@ -1,12 +1,8 @@
 ---
-title:  "[MeetMe!]소모임 + 미니홈피 사이트"
-excerpt: "웹 프로젝트 - Java, Spring Framework, Oracle"
-
-categories:
-  - Blog
-tags:
-  - Blog
-last_modified_at: 2020-02-05T08:06:00-05:00
+title:  "[MeetMe!]   소모임 + 미니홈피"
+excerpt: "Java, Spring Framework, Oracle"
+header:
+  teaser: assets/image/meetme/m_page.PNG
 ---
 ![main](\assets\image\meetme\m_main.jpg)
 
@@ -61,4 +57,6 @@ last_modified_at: 2020-02-05T08:06:00-05:00
 
 ![main](\assets\image\meetme\m_pay.PNG)
 
-> [Github](https://github.com/JooooHyeWon/meetme)
+## 관련 주소
+* [Github](https://github.com/JooooHyeWon/meetme)
+* [데모사이트](http://sohee.space/me/)
